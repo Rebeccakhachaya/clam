@@ -96,7 +96,7 @@ function makeLeafFall(){
     //creating an image element
     const leaf =  document.createElement("img");
     //adding the image source
-    leaf.src = "flowere.jpeg";
+    leaf.src = "red.jpeg";
     //adding a class name
     leaf.classList.add ("leaf");
      //adding a random width between 10 and 40px
